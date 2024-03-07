@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: nginxdemos
-    image: jesuswithme/nginx-demos
+    image: jesuswithme/nginxdemos
